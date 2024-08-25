@@ -1,1 +1,5 @@
-
+title: Data Science Project
+#logo: /assets/img/headshot_circle.png
+description: Project example i am working on
+show_downloads: true
+theme: jekyll-theme-minimal
